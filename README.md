@@ -1,8 +1,6 @@
-<strong>Hi</strong>👋
+Hi there! 👋 I’m Sherkhan Azimov
 
-I’m Sherkhan. A master's degree student in Finland. I have an experience in AI in medicine (Python, PyTorch, Sklearn) and Software Engineer (React, NestJS, NextJS, material ui)
-
-- I’m interested in Web development, Blockchain, AI, Finance. 
+I'm a full-stack blockchain developer passionate about building Web3 apps 
 
 <!--  [![Azimov's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimovs)](https://github.com/anuraghazra/github-readme-stats) -->
 
